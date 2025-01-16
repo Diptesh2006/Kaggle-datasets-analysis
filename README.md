@@ -1,0 +1,1 @@
+These are the datasets I have downloaded from Kaggle and done the analysis based on various aspects. Initially I had done it for my course on data science. You can get a better interface and ease of viewing in https://sites.google.com/d/1PLpPzpMTR4CBFTuoDBrkHZ_IEvUwiMln/p/1H2R3vohZsepHIH1hii4A_Rszmw3zc_K1/edit?pli=1
